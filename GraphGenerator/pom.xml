@@ -12,8 +12,7 @@
     <artifactId>GraphGenerator</artifactId>
 
     <name>GraphGenerator</name>
-    <!-- FIXME change it to the project's website -->
-    <url>http://www.example.com</url>
+    <url>https://github.com/RossMcKenzie/GuavaTravellingSalesmanSolver</url>
 
 
 </project>
