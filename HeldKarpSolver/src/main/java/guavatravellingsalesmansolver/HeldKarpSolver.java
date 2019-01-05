@@ -57,6 +57,7 @@ public class HeldKarpSolver
     {
         this.graph = graph;
         this.startNode = startNode;
+        this.setCosts = new HashMap<>();
 
         HashSet<Integer> fullSet = new HashSet<Integer>(graph.nodes());
         fullSet.remove(startNode);
